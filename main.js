@@ -104,7 +104,7 @@ function my_keydown(e) {
         console.log("u");
     }
         if(keyPressed=='67'){
-            new_image("clound.jpg");
+            new_image("cloud.jpg");
             console.log("c");
         }
 }
